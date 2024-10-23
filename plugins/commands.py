@@ -39,7 +39,7 @@ join_db = JoinReqs
 
 async def start(client, message):
     # React with a thumbs up emoji
-    await message.react(emoji="👍")
+    await message.react(emoji="♥️")
  #   if len(message.command) != 2: #and message.command[1] == "show_hello":
        # await message.reply_text("hello")
    # else:
